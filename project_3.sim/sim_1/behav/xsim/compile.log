@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/communication and electronics engineering/analog and digital ic/digital/courses/projects/project_3/project_3.srcs/sources_1/new/carry_look_ahead_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module carry_look_ahead_generator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/communication and electronics engineering/analog and digital ic/digital/courses/projects/project_3/project_3.srcs/sources_1/new/look_ahead_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module look_ahead_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/communication and electronics engineering/analog and digital ic/digital/courses/projects/project_3/project_3.srcs/sources_1/new/synthesis.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HA
+INFO: [VRFC 10-311] analyzing module adders
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/communication and electronics engineering/analog and digital ic/digital/courses/projects/project_3/project_3.srcs/sources_1/new/look_ahead_adder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module look_ahead_adder_tb
