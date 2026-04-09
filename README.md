@@ -1,1 +1,1 @@
-![Alt text](rippple_carry_adder_schematic.png)
+![Alt text](rippple_carry_adder_schematic.PNG)
